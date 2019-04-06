@@ -1,0 +1,28 @@
+{
+  "name": "unifly",
+  "version": "1.0.0",
+  "description": "uni-app基于Fly封装request请求，实现请求拦截和响应拦截,支持h5和小程序",
+  "main": "uniFly.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QzeroQ/uniFly.git"
+  },
+  "keywords": [
+    "uni-app",
+    "小程序",
+    "请求拦截",
+    "响应拦截",
+    "request",
+    "Promise\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[p\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+    "fly"
+  ],
+  "author": "足下",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QzeroQ/uniFly/issues"
+  },
+  "homepage": "https://github.com/QzeroQ/uniFly#readme"
+}
