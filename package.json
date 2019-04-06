@@ -1,6 +1,6 @@
 {
   "name": "unifly",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "uni-app基于Fly封装request请求，实现请求拦截和响应拦截,支持h5和小程序",
   "main": "uniFly.js",
   "scripts": {
