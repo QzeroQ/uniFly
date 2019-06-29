@@ -19,5 +19,6 @@
 4. [uni-app官方文档](https://uniapp.dcloud.io/)
 5. [vue.js官方文档](https://cn.vuejs.org/index.html)
 6. [视频教程获取方式](https://www.jianshu.com/p/2729ac395cf5)
+7. [插件源码](https://github.com/QzeroQ/uniFly-Webpack)
 
-### 欢迎右上角Star,谢谢
+## 欢迎右上角Star,谢谢
